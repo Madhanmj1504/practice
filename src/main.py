@@ -1,0 +1,4 @@
+def logout():
+    pass
+
+    
